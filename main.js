@@ -1,0 +1,1 @@
+alert("the site is still under development stage. please reload again and click ok to see the animations properly")
